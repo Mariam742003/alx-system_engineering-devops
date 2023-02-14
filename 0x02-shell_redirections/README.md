@@ -1,1 +1,1 @@
-hello world script
+displays a confused smiley
